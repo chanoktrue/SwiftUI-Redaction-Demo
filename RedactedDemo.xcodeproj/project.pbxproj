@@ -11,6 +11,8 @@
 		CD2B0C92298FC7B9006A5064 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2B0C91298FC7B9006A5064 /* ContentView.swift */; };
 		CD2B0C94298FC7B9006A5064 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD2B0C93298FC7B9006A5064 /* Assets.xcassets */; };
 		CD2B0C97298FC7B9006A5064 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD2B0C96298FC7B9006A5064 /* Preview Assets.xcassets */; };
+		CD2B0C9E298FD2A3006A5064 /* ScrollContentBackgroupDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2B0C9D298FD2A3006A5064 /* ScrollContentBackgroupDemo.swift */; };
+		CD2B0CA0298FD4A2006A5064 /* ProjectionEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2B0C9F298FD4A2006A5064 /* ProjectionEffectView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		CD2B0C91298FC7B9006A5064 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CD2B0C93298FC7B9006A5064 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD2B0C96298FC7B9006A5064 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CD2B0C9D298FD2A3006A5064 /* ScrollContentBackgroupDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollContentBackgroupDemo.swift; sourceTree = "<group>"; };
+		CD2B0C9F298FD4A2006A5064 /* ProjectionEffectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectionEffectView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				CD2B0C8F298FC7B9006A5064 /* RedactedDemoApp.swift */,
 				CD2B0C91298FC7B9006A5064 /* ContentView.swift */,
+				CD2B0C9D298FD2A3006A5064 /* ScrollContentBackgroupDemo.swift */,
+				CD2B0C9F298FD4A2006A5064 /* ProjectionEffectView.swift */,
 				CD2B0C93298FC7B9006A5064 /* Assets.xcassets */,
 				CD2B0C95298FC7B9006A5064 /* Preview Content */,
 			);
@@ -137,8 +143,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD2B0C9E298FD2A3006A5064 /* ScrollContentBackgroupDemo.swift in Sources */,
 				CD2B0C92298FC7B9006A5064 /* ContentView.swift in Sources */,
 				CD2B0C90298FC7B9006A5064 /* RedactedDemoApp.swift in Sources */,
+				CD2B0CA0298FD4A2006A5064 /* ProjectionEffectView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
